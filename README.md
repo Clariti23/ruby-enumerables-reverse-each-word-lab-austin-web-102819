@@ -28,3 +28,6 @@ reverse_each_word("Hello there, and how are you?")
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/reverse-each-word' title='Reverse Each Word'>Reverse Each Word</a> on Learn.co and start learning to code for free.</p>
 
+
+
+
